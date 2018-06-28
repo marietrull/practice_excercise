@@ -1,0 +1,16 @@
+#themeFilter {
+	float: right;
+}
+
+#all, #movies, #games {
+	margin: 5px;
+}
+
+#games {
+	margin-right: 10px;
+}
+
+#quoteSearch {
+	width: 50%;
+	margin: 10px;
+}

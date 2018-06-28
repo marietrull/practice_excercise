@@ -1,0 +1,31 @@
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+table {
+	margin: 10px;
+}
+
+th, td {
+	padding: 5px;
+}
+
+#pagination {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pagination a {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+.showPage {
+
+}
+
+.hidePage {
+	display: none;
+}
